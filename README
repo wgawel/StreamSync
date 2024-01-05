@@ -1,0 +1,44 @@
+# Stream Synchronization Web App
+
+This web application allows users to synchronize YouTube live streams with audio streams from other HTTP sources. It is designed to be versatile and can be used for any YouTube live stream and HTTP audio live streams.
+
+## Features
+
+- Embeds YouTube live stream with configurable delay.
+- Supports synchronization with any HTTP audio live stream.
+- Simple user interface
+
+## Usage
+
+1. Open the web page in a modern web browser.
+2. Enter the YouTube live stream URL in the embedded player.
+3. Enter the HTTP audio live stream URL in the audio player.
+4. Click the "Play" button to begin synchronization playing.
+5. Adjust synchronization delay using the GUI.
+
+## Configuration
+
+- **YouTube Live Stream URL**: Replace the default YouTube live stream URL with your desired stream URL.
+- **HTTP Audio Live Stream URL**: Replace the default audio stream URL with your desired audio stream URL.
+- **Synchronization Delay**: Adjust the delay in seconds to synchronize the streams as per your preferences.
+
+## Requirements
+
+- Modern web browser with support for HTML5 and JavaScript.
+- Internet connection to load YouTube live stream and audio stream.
+
+## Compatibility
+
+This web app is designed to work with any YouTube live stream and HTTP audio live streams. It uses the YouTube Iframe API for embedding YouTube live streams.
+
+## Contributing
+
+Feel free to contribute to the project by submitting issues or pull requests. Your feedback and improvements are always welcome.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**Note:** This is a basic implementation, and you may need to customize or enhance the code based on your specific requirements.
